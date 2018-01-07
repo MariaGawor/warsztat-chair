@@ -319,7 +319,7 @@ button .see-more {
 
 .slider-text button a {
     text-decoration: none;
-    /*color: #ffff;*/
+
 }
 
 #galeria {
@@ -396,7 +396,6 @@ margin-top: 40px;
 }
 
 .prices {
-    /*background-color: pink;*/
     margin-left:60px;
     width: 91%;
     height: 700px;
